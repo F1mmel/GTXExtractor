@@ -203,7 +203,6 @@ static void ProcessFile(string root, string file, List<TextureData> textures)
 {
     if (file.EndsWith("pack.gz", StringComparison.OrdinalIgnoreCase))
     {
-        // Den Pfad der Datei in der Konsole ausgeben
         Console.WriteLine(file);
 
         using (FileStream originalFileStream = new FileStream(file, FileMode.Open, FileAccess.Read))
