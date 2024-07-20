@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "Svn6O3TVnHtg0+W3aZayfwSZ09Hk4wEax3+EZGuaQoaY2paoifsU+UAHYhzKwj4m3+uc5qNJWpmdi1xc6hxGkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\finne\\RiderProjects\\GTXExtractor\\GTXExtractor\\GTXExtractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\finne\\.nuget\\packages\\hexa.net.directxtex\\1.0.1\\hexa.net.directxtex.1.0.1.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\hexagen.runtime\\1.0.0\\hexagen.runtime.1.0.0.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\hexagen.runtime.com\\1.0.0\\hexagen.runtime.com.1.0.0.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0-preview.6.24327.7\\microsoft.win32.systemevents.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\silk.net.core\\2.17.1\\silk.net.core.2.17.1.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\silk.net.core.win32extras\\2.17.1\\silk.net.core.win32extras.2.17.1.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\silk.net.direct2d\\2.17.1\\silk.net.direct2d.2.17.1.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\silk.net.direct3d11\\2.17.1\\silk.net.direct3d11.2.17.1.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\silk.net.direct3d12\\2.17.1\\silk.net.direct3d12.2.17.1.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\silk.net.dxgi\\2.17.1\\silk.net.dxgi.2.17.1.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\silk.net.maths\\2.17.1\\silk.net.maths.2.17.1.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\system.drawing.common\\9.0.0-preview.6.24327.6\\system.drawing.common.9.0.0-preview.6.24327.6.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\finne\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
